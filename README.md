@@ -6,7 +6,7 @@ The **Pet Medical History Management Domain** provides a comprehensive microserv
 
 ### Core Functionality
 
-The domain manages the complete lifecycle of pet medical records, from initial creation to historical tracking, ensuring data integrity and maintaining comprehensive audit trails for veterinary care management.
+The domain manages the complete lifecycle of pet medical records, from initial creation to historical tracking, ensuring data integrity and maintaining comprehensive audit trails for veterinary care management.  
 
 ---
 
