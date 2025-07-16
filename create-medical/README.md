@@ -1,6 +1,6 @@
 # Create Medical Record Microservice
 
-## 1. Overview
+## 1. Overview 
 
 The **Create Medical Record Microservice** is responsible for creating new medical records for pets within the Pet Medical History Management System. This microservice ensures that only authorized pet owners can create medical records for their pets through JWT token validation and database verification.
 

@@ -1,6 +1,6 @@
 # Delete Medical Record Microservice
 
-## 1. Overview
+## 1. Overview 
 
 The **Delete Medical Record Microservice** is responsible for safely removing medical records from the Pet Medical History Management System. This microservice ensures that only authorized pet owners can delete medical records for their pets through JWT token validation and ownership verification.
 
