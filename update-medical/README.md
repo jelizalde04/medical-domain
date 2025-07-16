@@ -1,6 +1,6 @@
 # Update Medical Record Microservice
 
-## 1. Overview
+## 1. Overview 
 
 The **Update Medical Record Microservice** handles updating existing medical records for pets. Instead of overwriting existing records, it creates new records with updated information while preserving the complete medical history for audit trail purposes.
 

@@ -1,6 +1,6 @@
 # All Medical Records Microservice
 
-## 1. Overview
+## 1. Overview 
 
 The **All Medical Records Microservice** retrieves the complete medical history for a specific pet, returning all medical records in chronological order. This microservice ensures that only authorized pet owners can access the complete medical history for their pets through JWT token validation and ownership verification.
 

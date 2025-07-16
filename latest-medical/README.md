@@ -1,6 +1,6 @@
 # Latest Medical Record Microservice
 
-## 1. Overview
+## 1. Overview 
 
 The **Latest Medical Record Microservice** retrieves the most recent medical record for a specific pet. This microservice ensures that only authorized pet owners can access medical records for their pets through JWT token validation and ownership verification.
 
